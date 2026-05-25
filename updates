@@ -1,0 +1,19 @@
+New updates for next push
+
+Controller 
+
+1 - Controller Global Excpetion
+2 - ResponseEntity
+3 - Status Codes(slf4j)
+4- Security JWT
+
+REPO
+1 - custom queries
+
+Models
+
+1 - DTO-Data Valiudation
+2 - DTO update
+3 - Postgres SQL
+
+
